@@ -14,3 +14,7 @@ To project έγινε στο πλαίσιο του μαθήματος (Κ08 Δο
 
 
 ### Παραδείγματα διάφορων gifs
+  ![](https://github.com/KonstantinosZach/GameOfLife-JohnConway/blob/main/gifs/gif_1.gif)
+  ![](https://github.com/KonstantinosZach/GameOfLife-JohnConway/blob/main/gifs/gif_2.gif)
+  ![](https://github.com/KonstantinosZach/GameOfLife-JohnConway/blob/main/gifs/gif_3.gif)
+  ![](https://github.com/KonstantinosZach/GameOfLife-JohnConway/blob/main/gifs/gif_4.gif)
